@@ -1,0 +1,115 @@
+<?xml version="1.0"?> 
+<Jetplanes>
+	<Jet id="0001"> 
+		<JetName>Zeus</JetName> 
+		<PricePerDay>350</PricePerDay>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<MaxGuests>6</MaxGuests>
+		<NumberRooms>4</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>2</Bathrooms>
+	</Jet>	
+	<Jet id="0002"> 
+		<JetName> Virgin</JetName> 
+		<PricePerDay>400</PricePerDay>
+		<startDate>10/08/2019</startDate>
+		<endDate>2008/2019</endDate>
+		<MaxGuests>15</MaxGuests>
+		<NumberRooms>8</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>6</Bathrooms>
+	</Jet>
+	<Jet id="0003"> 
+		<JetName>Monach</JetName> 
+		<PricePerDay>1000</PricePerDay>
+		<startDate>10092019</startDate>
+		<endDate>20092019</endDate>
+		<MaxGuests>20</MaxGuests>
+		<NumberRooms>15</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>8</Bathrooms>
+	</Jet>
+	<Jet id="0004"> 
+		<JetName>British Airways</JetName> 
+		<PricePerDay>200</PricePerDay>
+		<startDate>15092019</startDate>
+		<endDate>2009109</endDate>
+		<MaxGuests>20</MaxGuests>
+		<NumberRooms>8</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>4</Bathrooms>
+	</Jet>
+	<Jet id="0005"> 
+		<JetName>AirBus</JetName> 
+		<PricePerDay>3000</PricePerDay>
+		<startDate>12092019</startDate>
+		<endDate>12102019</endDate>
+		<MaxGuests>30</MaxGuests>
+		<NumberRooms>40</NumberRooms>
+		<BedroomAvailable>No</BedroomAvailable>
+		<Bathrooms>10</Bathrooms>
+	</Jet>
+	<Jet id="0006"> 
+		<JetName>Delta Airlines</JetName> 
+		<PricePerDay>300</PricePerDay>
+		<startDate>12102019</startDate>
+		<endDate>12112019</endDate>
+		<MaxGuests>13</MaxGuests>
+		<NumberRooms>5</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>5</Bathrooms>
+	</Jet>
+	<Jet id="0007"> 
+		<JetName>American Airlines</JetName> 
+		<PricePerDay>500</PricePerDay>
+		<startDate>12112019</startDate>
+		<endDate>21112019</endDate>
+		<MaxGuests>20</MaxGuests>
+		<NumberRooms>10</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>5</Bathrooms>
+	</Jet>
+	<Jet id="0008"> 
+		<JetName>AirForce 1</JetName> 
+		<PricePerDay>10000</PricePerDay>
+		<startDate>12122019</startDate>
+		<endDate>10012019</endDate>
+		<MaxGuests>30</MaxGuests>
+		<NumberRooms>15</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>8</Bathrooms>
+	</Jet>
+	<Jet id="0009"> 
+		<JetName>Emirates</JetName> 
+		<PricePerDay>1000</PricePerDay>
+		<startDate>25092019</startDate>
+		<endDate>30092019</endDate>
+		<MaxGuests>10</MaxGuests>
+		<NumberRooms>5</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>6</Bathrooms>
+	</Jet>
+	<Jet id="0010"> 
+		<JetName>Sinagapour Airlines</JetName> 
+		<PricePerDay>300</PricePerDay>
+		<startDate>17092019</startDate>
+		<endDate>1710219</endDate>
+		<MaxGuests>30</MaxGuests>
+		<NumberRooms>20</NumberRooms>
+		<BedroomAvailable>Yes</BedroomAvailable>
+		<Bathrooms>12</Bathrooms>
+	</Jet>
+</Jetplanes>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

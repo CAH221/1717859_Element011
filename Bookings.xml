@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><AirlineBookings>
+	<Booking id="1"> 
+		<FirstName>Leonardo</FirstName> 
+		<LastName>DaVINCI</LastName>
+		<startDate>111119</startDate>
+		<endDate>201119</endDate>
+		<MaxGuests>6</MaxGuests>		
+		<Catering>Yes</Catering>		
+	</Booking>	
+	<Booking id="0002"> 
+		<FirstName>caroline</FirstName> 
+		<LastName>Hill</LastName>
+		<startDate>9082019</startDate>
+		<endDate>10092019</endDate>
+		<MaxGuests>4</MaxGuests>		
+		<Catering/>
+	</Booking>
+	<Booking id="0003"> 
+		<FirstName>superman</FirstName> 
+		<LastName>clark</LastName>
+		<startDate>190919</startDate>
+		<endDate>290919</endDate>
+		<MaxGuests>6</MaxGuests>		
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="0004"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<MaxGuests>6</MaxGuests>		
+		<Catering>Yes</Catering>
+	</Booking>
+	<Booking id="0005"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<MaxGuests>6</MaxGuests>		
+		<Catering>Yes</Catering>
+	</Booking>
+</AirlineBookings>

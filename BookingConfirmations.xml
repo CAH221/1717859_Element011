@@ -1,0 +1,71 @@
+<?xml version="1.0"?> 
+<BookingConfirmations>
+	<Confirmation id="0001"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<ConfirmedPlane>Zeus</ConfirmedPlane>
+		<MaxGuests>6</MaxGuests>
+		<CabinRooms>2</CabinRooms>
+		<Bedroom>Yes</Bedroom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<TotPrice>1500</TotPrice>
+	</Confirmation>	
+	<Confirmation id="0002"> 
+		<FirstName>Caroline</FirstName> 
+		<LastName>Hill</LastName>
+		<startDate>100919</startDate>
+		<endDate>150919</endDate>
+		<ConfirmedPlane>Cronus</ConfirmedPlane>
+		<MaxGuests>4</MaxGuests>
+		<CabinRooms>1</CabinRooms>
+		<Bedroom>Yes</Bedroom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<TotPrice>900</TotPrice>
+	</Confirmation>
+	<Confirmation id="0003"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<ConfirmedPlane>Zeus</ConfirmedPlane>
+		<MaxGuests>6</MaxGuests>
+		<CabinRooms>2</CabinRooms>
+		<Bedroom>Yes</Bedroom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<TotPrice>1500</TotPrice>
+	</Confirmation>
+	<Confirmation id="0004"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<ConfirmedPlane>Zeus</ConfirmedPlane>
+		<MaxGuests>6</MaxGuests>
+		<CabinRooms>2</CabinRooms>
+		<Bedroom>Yes</Bedroom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<TotPrice>1500</TotPrice>
+	</Confirmation>
+	<Confirmation id="0005"> 
+		<FirstName>Caitlin</FirstName> 
+		<LastName>Doherty</LastName>
+		<startDate>300819</startDate>
+		<endDate>100919</endDate>
+		<ConfirmedPlane>Zeus</ConfirmedPlane>
+		<MaxGuests>6</MaxGuests>
+		<CabinRooms>2</CabinRooms>
+		<Bedroom>Yes</Bedroom>
+		<Bathrooms>2</Bathrooms>
+		<Catering>Yes</Catering>
+		<TotPrice>1500</TotPrice>
+	</Confirmation>
+</BookingConfirmations>
+
+
+
